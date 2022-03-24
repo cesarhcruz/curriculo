@@ -84,15 +84,11 @@ body{
 }
 
 .empresa3{
-    position: absolute;
-    top: 955px;
     margin-left: 180px;
     font-weight: 700;
 }
 
 .empresa4{
-    position: absolute;
-    top: 1025px;
     margin-left: 180px;
     font-weight: 700;
 }
@@ -126,6 +122,14 @@ body{
     font-size: 26px;
     border-radius: 10px;
     padding: 3px 15px;
+}
+
+.form1{
+  display: flex;
+}
+
+.form2{
+  display: flex;
 }
 
 .cursos h4{
