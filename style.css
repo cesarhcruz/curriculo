@@ -73,7 +73,7 @@ body{
 }
 
 .cargo{
-    margin-left:  180px;
+    margin-left: 180px;
     font-weight: 400;
 }
 
@@ -89,44 +89,14 @@ body{
     padding: 3px 15px;
 }
 
-.exp1{
+.exp{
   display: flex;
 }
 
-.exp2{
-  display: flex;
-}
 
-.form1{
-  display: flex;
-}
-
-.form1 .periodo{
-  margin-left 85px
-}
-
-.form2{
-  display: flex;
-}
-
-.form2 .periodo{
-  margin-left 85px
-}
-
-.curs1{
-  display: flex;
-}
-
-.curs1 .periodo{
-  margin-left 85px
-}
-
-.curs2{
-  display: flex;
-}
-
-.curs2 .periodo{
-  margin-left 85px
+.periodo-unico{
+  margin-left: 85px;
+  font-weight: 700;
 }
 
 
