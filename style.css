@@ -67,43 +67,8 @@ body{
     font-weight: 700;
 }
 
-.empresa1{
-    display: flex;
-    position: absolute;
-    top: 570px;
-    margin-left: 180px;
-    font-weight: 700;
-}
-
-.empresa2{
-    display: flex;
-    position: absolute;
-    top: 715px;
-    margin-left: 180px;
-    font-weight: 700;
-}
-
-.empresa3{
-    
-    font-weight: 700;
-}
-
-.empresa4{
-    
-    font-weight: 700;
-}
-
-.empresa5{
-    position: absolute;
-    top: 1205px;
-    margin-left: 180px;
-    font-weight: 700;
-}
-
-.empresa6{
-    position: absolute;
-    top: 1280px;
-    margin-left: 180px;
+.empresa{
+    margin-left: 50px;
     font-weight: 700;
 }
 
@@ -124,6 +89,14 @@ body{
     padding: 3px 15px;
 }
 
+.exp1{
+  display: flex;
+}
+
+.exp2{
+  display: flex;
+}
+
 .form1{
   display: flex;
 }
@@ -131,6 +104,15 @@ body{
 .form2{
   display: flex;
 }
+
+.curs1{
+  display: flex;
+}
+
+.curs2{
+  display: flex;
+}
+
 
 .cursos h4{
     background-color: #adbcca;
