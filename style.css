@@ -101,16 +101,32 @@ body{
   display: flex;
 }
 
+.form1 .periodo{
+  margin-left 85px
+}
+
 .form2{
   display: flex;
+}
+
+.form2 .periodo{
+  margin-left 85px
 }
 
 .curs1{
   display: flex;
 }
 
+.curs1 .periodo{
+  margin-left 85px
+}
+
 .curs2{
   display: flex;
+}
+
+.curs2 .periodo{
+  margin-left 85px
 }
 
 
